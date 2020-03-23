@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Patryk/Desktop/informatyka 2/C++/salesman/tsp.cpp
+tsp.hpp
+C:/Users/Patryk/Desktop/informatyka 2/C++/salesman/tsp.hpp
+
+C:/Users/Patryk/Desktop/informatyka 2/C++/salesman/tsp.hpp
+iostream
+-
+vector
+-
+list
+-
+cmath
+-
+functional
+-
+iostream
+-
+map
+-
+algorithm
+-
+string
+-
+numeric
+-
+

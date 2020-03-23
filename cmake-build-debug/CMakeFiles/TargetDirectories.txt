@@ -1,0 +1,3 @@
+C:/Users/Patryk/Desktop/informatyka 2/C++/salesman/cmake-build-debug/CMakeFiles/salesman.dir
+C:/Users/Patryk/Desktop/informatyka 2/C++/salesman/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Patryk/Desktop/informatyka 2/C++/salesman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
